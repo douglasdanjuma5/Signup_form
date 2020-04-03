@@ -83,6 +83,9 @@ if (isset($_POST['signup'])) {
                 <div class="form-group">
                     <button type="submit"  name="signup">Register</button>
                 </div>
+                <div class="form-group">
+                    <a href="login.php" class="right-link">Login</a>
+                </div>
             </form>
         </div>
     </div>
